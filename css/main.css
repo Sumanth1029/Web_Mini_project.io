@@ -93,14 +93,25 @@
                 opacity: 0;
                 transform: translate3d(-20px,0, 0) ;
             }
+
+
+
+
 .left{
    
     background-color: black;
     color: #2f96ef;
     transform: translate3d( -50px,0,0);
     opacity: 0;
+
    
 }
+.down{
+   
+    opacity: 0; 
+}
+
+
 
 .left:hover{
     background-color: #ff6a00;
